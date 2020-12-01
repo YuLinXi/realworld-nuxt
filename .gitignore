@@ -21,3 +21,5 @@ alias.ide.confg.json
 *.njsproj
 *.sln
 *.sw*
+
+.vercel
